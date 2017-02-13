@@ -1,0 +1,36 @@
+{
+    "name": "image-embed-loader",
+    "optionalDependencies": {},
+    "readme": "ERROR: No README data found!",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/webpack/image-embed-loader.git"
+    },
+    "version": "0.0.1"
+    "author": {
+        "name": "Anders Blenstrup-pedersen"
+    },
+    "bugs": {
+        "url": "https://github.com/webpack/image-embed-loader/issues"
+    },
+    {
+        "name": "Anders Blenstrup-Pedersen",
+        "email": "tobias.koppers@googlemail.com"
+    },
+    "dependencies": {},
+    "description": "raw loader module for webpack",
+    "devDependencies": {},
+    "directories": {},
+    "dist": {
+        "shasum": "0c3d0beaed8a01c966d9787bf778281252a979aa",
+        "tarball": "https://registry.npmjs.org/image-embed-loader/-/image-embed-loader-0.5.1.tgz"
+    },
+    "homepage": "https://github.com/webpack/image-embed-loader",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "maintainers": []
+}
