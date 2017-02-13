@@ -6,7 +6,7 @@
         "type": "git",
         "url": "git+ssh://git@github.com/webpack/image-embed-loader.git"
     },
-    "version": "0.0.1"
+    "version": "0.0.1",
     "author": {
         "name": "Anders Blenstrup-pedersen"
     },
