@@ -13,10 +13,12 @@
     "bugs": {
         "url": "https://github.com/webpack/image-embed-loader/issues"
     },
-    {
-        "name": "Anders Blenstrup-Pedersen",
-        "email": "tobias.koppers@googlemail.com"
-    },
+    "maintainers": [
+        {
+            "name": "Anders Blenstrup-Pedersen",
+            "email": "tobias.koppers@googlemail.com"
+        }
+    ],
     "dependencies": {},
     "description": "raw loader module for webpack",
     "devDependencies": {},
@@ -31,6 +33,5 @@
             "type": "MIT",
             "url": "http://www.opensource.org/licenses/mit-license.php"
         }
-    ],
-    "maintainers": []
+    ]
 }
